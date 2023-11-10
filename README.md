@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **we**
 
-- <h1>🌱 I’m currently learning **web development**</h1>
+- <h1>🌱 I’m currently learning web development</h1>
 
-- 💬 Ask me about **python,javascript and java**
+- 💬 Ask me about python,javascript and java**
 
-- 📫 How to reach me **shivampandey2389@gmail.com**
+- 📫 How to reach me shivampandey2389@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
