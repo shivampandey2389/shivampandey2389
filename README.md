@@ -5,7 +5,7 @@
 
 - <h1>🌱 I’m currently learning web development</h1>
 
-- 💬 Ask me about python,javascript and java**
+- 💬 Ask me about python,javascript and java
 
 - 📫 How to reach me shivampandey2389@gmail.com
 
