@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center"> A passionate learner</h3>
 
-- 🔭 I’m currently working on 
-
 - 🌱 I’m currently learning web development
 
 - 💬 Ask me about python,javascript and java
