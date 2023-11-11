@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">A passionate for coding from India</h3>
+<h3 align="center"> A passionate learner</h3>
 
-- 🔭 I’m currently working on **we**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning web development
 
-- 💬 Ask me about **python,javascript and java**
+- 💬 Ask me about python,javascript and java
 
-- 📫 How to reach me **shivampandey2389@gmail.com**
+- 📫 How to reach me shivampandey2389@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
