@@ -8,7 +8,7 @@
 - 📫 How to reach me shivampandey2389@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="https://twitter.com/shivampandey050" target="blank"><img align="center" src="https://static.toiimg.com/thumb/msid-102075304,width-1280,height-720,resizemode-4/102075304.jpg" alt="@shivampandey050" height="35" width="60" /></a>
+<p align="" target="blank"><a href="https://twitter.com/shivampandey050" target="blank"><img align="center" src="https://static.toiimg.com/thumb/msid-102075304,width-1280,height-720,resizemode-4/102075304.jpg" alt="@shivampandey050" height="35" width="60" /></a>
 <a href="www.linkedin.com/in/shivam-pandey-7333702a1" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIbiofxGclX20CWBDtpmjOcbbuqEJS6PrSQ&usqp=CAU" alt="_shivampandeyy__" height="40" width="40" /></a>
 </p>
 
